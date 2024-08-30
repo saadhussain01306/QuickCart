@@ -1,8 +1,6 @@
+# QuickCart E-commerce Application
 
-
-# QuickArt E-commerce Application
-
-QuickArt is a full-featured e-commerce platform built with the MERN stack, providing a seamless online shopping experience. This application allows users to browse products, add them to their cart, and complete purchases with real-time payment processing using Braintree. Administrators can manage products, categories, and other aspects of the store through a dedicated admin panel.
+QuickCart is a full-featured e-commerce platform built with the MERN stack, providing a seamless online shopping experience. This application allows users to browse products, add them to their cart, and complete purchases with real-time payment processing using Braintree. Administrators can manage products, categories, and other aspects of the store through a dedicated admin panel.
 
 ## Features
 
@@ -45,12 +43,12 @@ QuickArt is a full-featured e-commerce platform built with the MERN stack, provi
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/quickart.git
+   git clone https://github.com/yourusername/quickcart.git
    ```
    
 2. **Navigate to the project directory:**
    ```bash
-   cd quickart
+   cd quickcart
    ```
 
 3. **Install dependencies for both frontend and backend:**
