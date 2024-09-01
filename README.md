@@ -95,5 +95,19 @@ Contributions are welcome! Please submit a pull request or open an issue to disc
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
 
+![Screenshot 2024-08-31 015617](https://github.com/user-attachments/assets/98c91183-29b8-44a0-8f20-b525152f19ad)
+![Screenshot 2024-08-31 015731](https://github.com/user-attachments/assets/28f95c7e-4ee6-489b-ac32-f59374531131)
+![Screenshot 2024-08-31 015628](https://github.com/user-attachments/assets/9fc55824-0a20-42c0-8824-dd44b003da80)
+![Screenshot 2024-08-31 015642](https://github.com/user-attachments/assets/07d1a070-db25-4bd1-b9a8-9fccbd49a4c1)
+![Screenshot 2024-08-31 015650](https://github.com/user-attachments/assets/1ad13779-459a-4150-98e9-62ca61f02a69)
+![Screenshot 2024-08-31 015707](https://github.com/user-attachments/assets/cb4a0f6a-338d-4baa-9089-c3f8e36eeb01)
+![Screenshot 2024-08-31 015718](https://github.com/user-attachments/assets/f04d7dc5-ca2b-4103-9b69-805e807e7d8b)
+![Screenshot 2024-08-31 015747](https://github.com/user-attachments/assets/18f602d6-7be0-487b-8ff4-410af37bf0f9)
+![Screenshot 2024-08-31 184612](https://github.com/user-attachments/assets/4c4fb162-a32d-418e-b993-b6c0c0ad9417)
 
----
+
+
+
+
+
+
